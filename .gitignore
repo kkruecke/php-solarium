@@ -9,6 +9,7 @@ readme.md
 phpunit.xml
 CONTRIBUTING.md
 server.php
+artisan
 /bootstrap/compiled.php
 /vendor
 app/
